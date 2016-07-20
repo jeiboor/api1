@@ -221,6 +221,7 @@ function create_config( )
       "channels",
       "set",
       "stats",
+      "bangp",
       "time",
       "version",
       "weather",
